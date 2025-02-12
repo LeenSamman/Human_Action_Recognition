@@ -55,16 +55,13 @@ Real-Time Processing: With optimized algorithms and hardware, Transformers can b
 
 Future research should focus on integrating Transformers into HAR frameworks, exploring multimodal data fusion, and addressing challenges such as model robustness and real-time processing.
 
-# How to Use This Repository
-This repository serves as a resource for researchers, students, and professionals interested in Human Action Recognition (HAR) in sports. While there is no code included, the review paper provides:
 
-- A detailed analysis of HAR methodologies and their applications in sports.
-
-- Insights into current challenges and future research directions, with a focus on Transformers.
-
-- References to key studies and datasets for further exploration.
-
-Accessing the Paper
-The full review paper is available in the /docs folder as a PDF.
+# Accessing the Paper
+The full review paper is available in the repo as HARinSports_Document.pdf.
 
 A summary of the paper is provided in this README file.
+
+# Team
+- Layan Balbisi
+- Leen Samman
+- Zaina Abu-Nasser
